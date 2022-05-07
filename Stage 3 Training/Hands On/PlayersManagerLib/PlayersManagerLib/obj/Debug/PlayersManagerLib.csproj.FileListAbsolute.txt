@@ -1,0 +1,5 @@
+D:\Codes\Stage 3 Training\Hands On\PlayersManagerLib\PlayersManagerLib\bin\Debug\PlayersManagerLib.dll
+D:\Codes\Stage 3 Training\Hands On\PlayersManagerLib\PlayersManagerLib\bin\Debug\PlayersManagerLib.pdb
+D:\Codes\Stage 3 Training\Hands On\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.csprojAssemblyReference.cache
+D:\Codes\Stage 3 Training\Hands On\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.dll
+D:\Codes\Stage 3 Training\Hands On\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.pdb

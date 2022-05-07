@@ -1,0 +1,6 @@
+D:\Codes\Stage 3 Training\Multi Threading\LogicPrograms\LogicPrograms\bin\Debug\LogicPrograms.exe.config
+D:\Codes\Stage 3 Training\Multi Threading\LogicPrograms\LogicPrograms\bin\Debug\LogicPrograms.exe
+D:\Codes\Stage 3 Training\Multi Threading\LogicPrograms\LogicPrograms\bin\Debug\LogicPrograms.pdb
+D:\Codes\Stage 3 Training\Multi Threading\LogicPrograms\LogicPrograms\obj\Debug\LogicPrograms.csprojAssemblyReference.cache
+D:\Codes\Stage 3 Training\Multi Threading\LogicPrograms\LogicPrograms\obj\Debug\LogicPrograms.exe
+D:\Codes\Stage 3 Training\Multi Threading\LogicPrograms\LogicPrograms\obj\Debug\LogicPrograms.pdb

@@ -1,0 +1,5 @@
+D:\Codes\Stage 3 Training\Hands On\Customercomm\Customercomm\obj\Debug\Customercomm.csprojAssemblyReference.cache
+D:\Codes\Stage 3 Training\Hands On\Customercomm\Customercomm\bin\Debug\Customercomm.dll
+D:\Codes\Stage 3 Training\Hands On\Customercomm\Customercomm\bin\Debug\Customercomm.pdb
+D:\Codes\Stage 3 Training\Hands On\Customercomm\Customercomm\obj\Debug\Customercomm.dll
+D:\Codes\Stage 3 Training\Hands On\Customercomm\Customercomm\obj\Debug\Customercomm.pdb

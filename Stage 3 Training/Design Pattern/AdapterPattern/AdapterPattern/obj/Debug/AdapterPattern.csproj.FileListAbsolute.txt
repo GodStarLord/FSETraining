@@ -1,0 +1,6 @@
+D:\Codes\Stage 3 Training\Design Pattern\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+D:\Codes\Stage 3 Training\Design Pattern\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+D:\Codes\Stage 3 Training\Design Pattern\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+D:\Codes\Stage 3 Training\Design Pattern\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csprojAssemblyReference.cache
+D:\Codes\Stage 3 Training\Design Pattern\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.exe
+D:\Codes\Stage 3 Training\Design Pattern\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.pdb

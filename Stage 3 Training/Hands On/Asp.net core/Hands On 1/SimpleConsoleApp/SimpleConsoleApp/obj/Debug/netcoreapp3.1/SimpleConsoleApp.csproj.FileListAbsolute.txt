@@ -1,0 +1,11 @@
+D:\Codes\Stage 3 Training\Hands On\Asp.net core\Hands On 1\SimpleConsoleApp\SimpleConsoleApp\bin\Debug\netcoreapp3.1\SimpleConsoleApp.exe
+D:\Codes\Stage 3 Training\Hands On\Asp.net core\Hands On 1\SimpleConsoleApp\SimpleConsoleApp\bin\Debug\netcoreapp3.1\SimpleConsoleApp.deps.json
+D:\Codes\Stage 3 Training\Hands On\Asp.net core\Hands On 1\SimpleConsoleApp\SimpleConsoleApp\bin\Debug\netcoreapp3.1\SimpleConsoleApp.runtimeconfig.json
+D:\Codes\Stage 3 Training\Hands On\Asp.net core\Hands On 1\SimpleConsoleApp\SimpleConsoleApp\bin\Debug\netcoreapp3.1\SimpleConsoleApp.runtimeconfig.dev.json
+D:\Codes\Stage 3 Training\Hands On\Asp.net core\Hands On 1\SimpleConsoleApp\SimpleConsoleApp\bin\Debug\netcoreapp3.1\SimpleConsoleApp.dll
+D:\Codes\Stage 3 Training\Hands On\Asp.net core\Hands On 1\SimpleConsoleApp\SimpleConsoleApp\bin\Debug\netcoreapp3.1\SimpleConsoleApp.pdb
+D:\Codes\Stage 3 Training\Hands On\Asp.net core\Hands On 1\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\netcoreapp3.1\SimpleConsoleApp.csprojAssemblyReference.cache
+D:\Codes\Stage 3 Training\Hands On\Asp.net core\Hands On 1\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\netcoreapp3.1\SimpleConsoleApp.AssemblyInfoInputs.cache
+D:\Codes\Stage 3 Training\Hands On\Asp.net core\Hands On 1\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\netcoreapp3.1\SimpleConsoleApp.AssemblyInfo.cs
+D:\Codes\Stage 3 Training\Hands On\Asp.net core\Hands On 1\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\netcoreapp3.1\SimpleConsoleApp.dll
+D:\Codes\Stage 3 Training\Hands On\Asp.net core\Hands On 1\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\netcoreapp3.1\SimpleConsoleApp.pdb

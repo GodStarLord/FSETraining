@@ -1,0 +1,64 @@
+1. Get Credentials
+	az aks get-credentials --resource-group [ResouceGroupName] --name [ClusterName]
+	
+	[All OK] - Merged "dockerKuberCluster" as current context in /home/ujwal/.kube/config
+
+2. Create Secrete file
+	kubectl create secret docker-registry dsconfigsn --docker-server=[DockerServerName] --docker-username=[RegistryUserName] --docker-password=[PasswordRegistry] --docker-email=[AzureMailID]
+	
+	[All OL] - secret/dsconfigsn created
+	
+3. Create YAMAL File
+	metadata:
+		name: customermanagementprojectdeploy //Give yamal file name, all in small letter
+		
+	matchLabels:
+      app: CustomerManagementProject	//Project Name
+	  
+	containers:
+      - name: dockerKuberREG	//username of container registry
+        image: dockerkuberreg.azurecr.io/dockersamplerepos:latest	//give the docker server link
+        
+	
+---------------------------
+
+Deployment
+
+Create DBA Admin account
+1. kubectl create serviceaccount dashboard-admin-sa	  
+
+	[All ok] - serviceaccount/dashboard-admin-sa created
+	
+	Link admin to account
+2. kubectl create clusterrolebinding dashboard-admin-sa --clusterrole=cluster-admin --serviceaccount=default:dashboard-admin-sa
+
+	[All ok] - clusterrolebinding.rbac.authorization.k8s.io/dashboard-admin-sa created
+	
+	Get Key(token)
+3. kubectl get secrets
+	
+	[All ok]
+	
+	NAME                             TYPE                                  DATA   AGE
+azdev-sa-688734-token-cnwm2      kubernetes.io/service-account-token   3      50m
+azdev-sa-fa86f5-token-g869j      kubernetes.io/service-account-token   3      72m
+dashboard-admin-sa-token-sjstm   kubernetes.io/service-account-token   3      3m2s
+default-token-5htg2              kubernetes.io/service-account-token   3      3h48m
+dsconfigsn                       kubernetes.io/dockerconfigjson        1      47m
+
+Get the token for admin
+4. kubectl describe secret dashboard-admin-sa-token-sjstm
+	
+	This gives the token
+	
+	eyJhbGciOiJSUzI1NiIsImtpZCI6InNQR2VCaVllM0VMNkEzRHJFU21DNE1NbFV1bUd5UkJoTWRpb1d6Sk1heFUifQ.eyJpc3MiOiJrdWJlcm5ldGVzL3NlcnZpY2VhY2NvdW50Iiwia3ViZXJuZXRlcy5pby9zZXJ2aWNlYWNjb3VudC9uYW1lc3BhY2UiOiJkZWZhdWx0Iiwia3ViZXJuZXRlcy5pby9zZXJ2aWNlYWNjb3VudC9zZWNyZXQubmFtZSI6ImRhc2hib2FyZC1hZG1pbi1zYS10b2tlbi1zanN0bSIsImt1YmVybmV0ZXMuaW8vc2VydmljZWFjY291bnQvc2VydmljZS1hY2NvdW50Lm5hbWUiOiJkYXNoYm9hcmQtYWRtaW4tc2EiLCJrdWJlcm5ldGVzLmlvL3NlcnZpY2VhY2NvdW50L3NlcnZpY2UtYWNjb3VudC51aWQiOiIzMzdiNGE2ZS0wNTVmLTRiYjgtOTBhZi0xNmZlYWM1MDdlZTgiLCJzdWIiOiJzeXN0ZW06c2VydmljZWFjY291bnQ6ZGVmYXVsdDpkYXNoYm9hcmQtYWRtaW4tc2EifQ.glkHXbcG48x9xNdLRLDW4SG91C5Js6j9nh8FhnW4Tb1mNdppPw5zSFEmGPo_wyzUsZzEXXyz_f4C0K4L7EaFcUcHI9EvtubTNcY81BKKVsiGTsl-7PdJ18WpzXZJ5U5RpfIveLE0ujxe4lbZRXnK4BNrBrFpP9ajNhe65zfqUP1wbWI4i1EmK6iAXwyr8e4X13iWxPP2HU6qtAtxhqe_KAurkBPwiJuPEVB44pCu2BZiBFG2Ai_ZnyDPhGRmh5Ym5Oc7qmGVFbj3WGSFyznvbdSeNDiy2qZCQPWyC3n5gUsDfBoiPb8CF2FlqNeQReKInsB6EsnlS8WFB2AVdK8w0Ar2rX9TXFrLNj4KEbN3OTyvT4r08Lgza5EsNv3UK6Etzbw-2eCOz1uz2ni52EZjwgO3eP5f0yNYVQglb2-vhHT7M_ED4OityN6fIuc1a9-IDo7ckvfRytwPr2nS7H0oWIKmlbn2zpXKR4ZVPOicvNrkrYoDI80sNXraTtut_UT-f7kFuWsvTwUcK6iyk41kmlsnlPDRnBUYkytsa4bBZfgH2625oDmtBD-SilcgpX73aJ5oXYJQ2sI-c_BH0ouSWSNp1eKRvLlX1fVzjOX77RMBj0wXFMJKlIg_BqSXNg5ayjpCh-jnT1euEpKqyCTeZfA6xycbkxuR0RNW1Jj5tt0
+
+5. az aks browse --resource-group [ResourceGroupName] --name [ClusterName]	//This should we get a link to dashboard page
+
+	if dashboard is not seen then follow next step 6 and 7
+	
+6. az aks disable-addons -g [ResouceGroupName] -n [ClusterName] -a kube-dashboard
+7. az aks enable-addons -g [ResouceGroupName] -n [ClusterName] -a kube-dashboard
+	repeate step 5
+	
+	http://40.71.236.198/api/customer

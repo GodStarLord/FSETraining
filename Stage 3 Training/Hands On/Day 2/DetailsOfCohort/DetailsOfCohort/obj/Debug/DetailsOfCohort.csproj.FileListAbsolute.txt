@@ -1,0 +1,6 @@
+D:\Codes\Stage 3 Training\Hands On\Day 2\DetailsOfCohort\DetailsOfCohort\bin\Debug\DetailsOfCohort.exe.config
+D:\Codes\Stage 3 Training\Hands On\Day 2\DetailsOfCohort\DetailsOfCohort\bin\Debug\DetailsOfCohort.exe
+D:\Codes\Stage 3 Training\Hands On\Day 2\DetailsOfCohort\DetailsOfCohort\bin\Debug\DetailsOfCohort.pdb
+D:\Codes\Stage 3 Training\Hands On\Day 2\DetailsOfCohort\DetailsOfCohort\obj\Debug\DetailsOfCohort.csprojAssemblyReference.cache
+D:\Codes\Stage 3 Training\Hands On\Day 2\DetailsOfCohort\DetailsOfCohort\obj\Debug\DetailsOfCohort.exe
+D:\Codes\Stage 3 Training\Hands On\Day 2\DetailsOfCohort\DetailsOfCohort\obj\Debug\DetailsOfCohort.pdb

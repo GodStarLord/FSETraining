@@ -1,0 +1,23 @@
+﻿@model List<String>
+@{
+    ViewData["Title"] = "ITOrganizations";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>IT Organizations</h1>
+
+<div>
+    <ul>
+        
+        @foreach (string item in Model)
+        {
+            if (@item == "Amazon")
+            {
+                <li><span><b>@item</b></span></li>
+                continue;
+            }
+            <li>@item</li>
+        }
+    </ul>
+</div>
+

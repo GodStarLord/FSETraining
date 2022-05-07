@@ -1,0 +1,32 @@
+Resource Group : dockerKuberGRP
+Registry Name : dockerKuberREG
+
+UserName Container Registry : dockerKuberREG
+Password Container Registry : ATiekG=EwTf8Edzdlrrxncweq15aPiZb
+
+Login Server for container registry[DockerServerName] : dockerkuberreg.azurecr.io
+
+Kubernetes Cluster Name : dockerKuberCluster
+
+----------------------------------------
+
+1. Get Credentials
+	az aks get-credentials --resource-group dockerKuberGRP --name dockerKuberCluster
+
+2. Create Secret file
+	kubectl create secret docker-registry dsconfigsn --docker-server=dockerkuberreg.azurecr.io --docker-username=dockerKuberREG --docker-password=ATiekG=EwTf8Edzdlrrxncweq15aPiZb --docker-email=ujwal1404@outlook.com
+
+3. Create YAML File from the template
+
+------------------------------------------
+
+DevOps Starter
+
+Project Name : azurekuberdocker
+
+
+5. az aks browse --resource-group dockerKuberGRP --name dockerKuberCluster
+
+6. az aks disable-addons -g dockerKuberGRP -n dockerKuberCluster -a kube-dashboard
+
+7. az aks enable-addons -g dockerKuberGRP -n dockerKuberCluster -a kube-dashboard

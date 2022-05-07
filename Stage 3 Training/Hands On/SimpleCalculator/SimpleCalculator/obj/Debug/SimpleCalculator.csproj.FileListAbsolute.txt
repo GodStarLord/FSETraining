@@ -1,0 +1,18 @@
+c:\users\singh\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\Singh\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\Singh\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+C:\Users\Singh\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\Singh\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+C:\Users\Singh\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\Singh\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\Singh\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\Singh\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+D:\Codes\Stage 3 Training\Hands On\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+D:\Codes\Stage 3 Training\Hands On\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+D:\Codes\Stage 3 Training\Hands On\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+D:\Codes\Stage 3 Training\Hands On\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojAssemblyReference.cache
+D:\Codes\Stage 3 Training\Hands On\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+D:\Codes\Stage 3 Training\Hands On\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+D:\Codes\Stage 3 Training\Hands On\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+D:\Codes\Stage 3 Training\Hands On\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+D:\Codes\Stage 3 Training\Hands On\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

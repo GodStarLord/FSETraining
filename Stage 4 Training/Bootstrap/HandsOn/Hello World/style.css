@@ -1,0 +1,27 @@
+.main-container {
+    padding: 10px;
+    margin: auto;
+    padding: 0px;
+}
+
+.material-icons {
+    vertical-align: middle;
+}
+
+.container {
+    background-color: darkseagreen;
+    width: 60%;
+    float: left;
+}
+
+.container2 {
+    background-color: cornsilk;
+    padding: 10px;
+    height: 129.6px;
+    width: 40%;
+    display: inline-block;
+}
+
+#listgroup {
+    border: 1px;
+}

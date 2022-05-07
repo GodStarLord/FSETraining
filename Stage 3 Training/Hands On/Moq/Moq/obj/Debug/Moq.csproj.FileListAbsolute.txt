@@ -1,0 +1,5 @@
+D:\Codes\Stage 3 Training\Hands On\Moq\Moq\bin\Debug\Moq.dll
+D:\Codes\Stage 3 Training\Hands On\Moq\Moq\bin\Debug\Moq.pdb
+D:\Codes\Stage 3 Training\Hands On\Moq\Moq\obj\Debug\Moq.csprojAssemblyReference.cache
+D:\Codes\Stage 3 Training\Hands On\Moq\Moq\obj\Debug\Moq.dll
+D:\Codes\Stage 3 Training\Hands On\Moq\Moq\obj\Debug\Moq.pdb

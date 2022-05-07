@@ -1,0 +1,6 @@
+D:\Codes\Stage 3 Training\Hands On\Day 2\DetailsOfCohort\OrderDetails\bin\Debug\OrderDetails.exe.config
+D:\Codes\Stage 3 Training\Hands On\Day 2\DetailsOfCohort\OrderDetails\bin\Debug\OrderDetails.exe
+D:\Codes\Stage 3 Training\Hands On\Day 2\DetailsOfCohort\OrderDetails\bin\Debug\OrderDetails.pdb
+D:\Codes\Stage 3 Training\Hands On\Day 2\DetailsOfCohort\OrderDetails\obj\Debug\OrderDetails.csprojAssemblyReference.cache
+D:\Codes\Stage 3 Training\Hands On\Day 2\DetailsOfCohort\OrderDetails\obj\Debug\OrderDetails.exe
+D:\Codes\Stage 3 Training\Hands On\Day 2\DetailsOfCohort\OrderDetails\obj\Debug\OrderDetails.pdb

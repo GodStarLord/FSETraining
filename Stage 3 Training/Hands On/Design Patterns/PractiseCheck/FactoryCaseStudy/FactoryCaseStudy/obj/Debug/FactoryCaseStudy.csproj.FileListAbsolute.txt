@@ -1,0 +1,6 @@
+D:\Codes\Stage 3 Training\Hands On\Design Patterns\PractiseCheck\FactoryCaseStudy\FactoryCaseStudy\bin\Debug\FactoryCaseStudy.exe.config
+D:\Codes\Stage 3 Training\Hands On\Design Patterns\PractiseCheck\FactoryCaseStudy\FactoryCaseStudy\bin\Debug\FactoryCaseStudy.exe
+D:\Codes\Stage 3 Training\Hands On\Design Patterns\PractiseCheck\FactoryCaseStudy\FactoryCaseStudy\bin\Debug\FactoryCaseStudy.pdb
+D:\Codes\Stage 3 Training\Hands On\Design Patterns\PractiseCheck\FactoryCaseStudy\FactoryCaseStudy\obj\Debug\FactoryCaseStudy.csprojAssemblyReference.cache
+D:\Codes\Stage 3 Training\Hands On\Design Patterns\PractiseCheck\FactoryCaseStudy\FactoryCaseStudy\obj\Debug\FactoryCaseStudy.exe
+D:\Codes\Stage 3 Training\Hands On\Design Patterns\PractiseCheck\FactoryCaseStudy\FactoryCaseStudy\obj\Debug\FactoryCaseStudy.pdb

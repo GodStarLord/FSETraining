@@ -1,0 +1,6 @@
+D:\Codes\Stage 3 Training\Design Pattern\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+D:\Codes\Stage 3 Training\Design Pattern\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
+D:\Codes\Stage 3 Training\Design Pattern\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
+D:\Codes\Stage 3 Training\Design Pattern\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojAssemblyReference.cache
+D:\Codes\Stage 3 Training\Design Pattern\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+D:\Codes\Stage 3 Training\Design Pattern\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb

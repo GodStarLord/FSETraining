@@ -1,0 +1,6 @@
+D:\Codes\Stage 3 Training\Hands On\PractiseCheck\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.exe.config
+D:\Codes\Stage 3 Training\Hands On\PractiseCheck\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.exe
+D:\Codes\Stage 3 Training\Hands On\PractiseCheck\GenericMedicine\GenericMedicine\bin\Debug\GenericMedicine.pdb
+D:\Codes\Stage 3 Training\Hands On\PractiseCheck\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.csprojAssemblyReference.cache
+D:\Codes\Stage 3 Training\Hands On\PractiseCheck\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.exe
+D:\Codes\Stage 3 Training\Hands On\PractiseCheck\GenericMedicine\GenericMedicine\obj\Debug\GenericMedicine.pdb

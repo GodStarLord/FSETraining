@@ -1,0 +1,6 @@
+D:\Codes\Stage 3 Training\Practise Questions\AppOne\AppOne\bin\Debug\AppOne.exe.config
+D:\Codes\Stage 3 Training\Practise Questions\AppOne\AppOne\bin\Debug\AppOne.exe
+D:\Codes\Stage 3 Training\Practise Questions\AppOne\AppOne\bin\Debug\AppOne.pdb
+D:\Codes\Stage 3 Training\Practise Questions\AppOne\AppOne\obj\Debug\AppOne.csprojAssemblyReference.cache
+D:\Codes\Stage 3 Training\Practise Questions\AppOne\AppOne\obj\Debug\AppOne.exe
+D:\Codes\Stage 3 Training\Practise Questions\AppOne\AppOne\obj\Debug\AppOne.pdb

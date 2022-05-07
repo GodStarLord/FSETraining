@@ -1,0 +1,5 @@
+D:\Codes\Stage 3 Training\TransportManagementSolution\TransportManagementBLLibrary\bin\Debug\TransportManagementBLLibrary.dll
+D:\Codes\Stage 3 Training\TransportManagementSolution\TransportManagementBLLibrary\bin\Debug\TransportManagementBLLibrary.pdb
+D:\Codes\Stage 3 Training\TransportManagementSolution\TransportManagementBLLibrary\obj\Debug\TransportManagementBLLibrary.csprojAssemblyReference.cache
+D:\Codes\Stage 3 Training\TransportManagementSolution\TransportManagementBLLibrary\obj\Debug\TransportManagementBLLibrary.dll
+D:\Codes\Stage 3 Training\TransportManagementSolution\TransportManagementBLLibrary\obj\Debug\TransportManagementBLLibrary.pdb

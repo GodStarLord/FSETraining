@@ -1,0 +1,9 @@
+2021-02-23 17:53:13,388  INFO DatabaseAccess.Startup.LogMessage [0] - MESSAGE: This is information
+ 2021-02-23 17:53:13,507  WARN DatabaseAccess.Startup.LogMessage [0] - MESSAGE: This is warning
+ 2021-02-23 17:53:13,511 ERROR DatabaseAccess.Startup.LogMessage [0] - MESSAGE: This is error
+ 2021-02-23 17:53:13,515 FATAL DatabaseAccess.Startup.LogMessage [0] - MESSAGE: This is critical
+ 2021-02-23 17:53:14,092  INFO Microsoft.Hosting.Lifetime.LogMessage [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-02-23 17:53:14,121  INFO Microsoft.Hosting.Lifetime.LogMessage [0] - MESSAGE: Hosting environment: Development
+ 2021-02-23 17:53:14,124  INFO Microsoft.Hosting.Lifetime.LogMessage [0] - MESSAGE: Content root path: D:\Codes\Stage 3 Training\ASP.NET Core\2\DatabaseAccess\DatabaseAccess
+ 2021-02-23 17:53:15,125  INFO DatabaseAccess.Startup.LogMessage [0] - MESSAGE: The code is working well
+ 

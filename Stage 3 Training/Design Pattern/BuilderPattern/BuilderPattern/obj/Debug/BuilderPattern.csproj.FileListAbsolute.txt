@@ -1,0 +1,6 @@
+D:\Codes\Stage 3 Training\Design Pattern\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csprojAssemblyReference.cache
+D:\Codes\Stage 3 Training\Design Pattern\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+D:\Codes\Stage 3 Training\Design Pattern\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+D:\Codes\Stage 3 Training\Design Pattern\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+D:\Codes\Stage 3 Training\Design Pattern\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.exe
+D:\Codes\Stage 3 Training\Design Pattern\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.pdb

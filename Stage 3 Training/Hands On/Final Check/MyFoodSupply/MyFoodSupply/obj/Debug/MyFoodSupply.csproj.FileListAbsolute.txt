@@ -1,0 +1,6 @@
+D:\Codes\Stage 3 Training\Hands On\Final Check\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.exe.config
+D:\Codes\Stage 3 Training\Hands On\Final Check\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.exe
+D:\Codes\Stage 3 Training\Hands On\Final Check\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.pdb
+D:\Codes\Stage 3 Training\Hands On\Final Check\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.csprojAssemblyReference.cache
+D:\Codes\Stage 3 Training\Hands On\Final Check\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.exe
+D:\Codes\Stage 3 Training\Hands On\Final Check\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.pdb

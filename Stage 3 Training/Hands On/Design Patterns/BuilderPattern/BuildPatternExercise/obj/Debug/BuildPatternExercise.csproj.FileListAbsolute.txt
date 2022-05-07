@@ -1,0 +1,5 @@
+D:\Codes\Stage 3 Training\Hands On\Design Patterns\BuilderPattern\BuildPatternExercise\bin\Debug\BuildPatternExercise.exe.config
+D:\Codes\Stage 3 Training\Hands On\Design Patterns\BuilderPattern\BuildPatternExercise\bin\Debug\BuildPatternExercise.exe
+D:\Codes\Stage 3 Training\Hands On\Design Patterns\BuilderPattern\BuildPatternExercise\bin\Debug\BuildPatternExercise.pdb
+D:\Codes\Stage 3 Training\Hands On\Design Patterns\BuilderPattern\BuildPatternExercise\obj\Debug\BuildPatternExercise.exe
+D:\Codes\Stage 3 Training\Hands On\Design Patterns\BuilderPattern\BuildPatternExercise\obj\Debug\BuildPatternExercise.pdb

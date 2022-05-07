@@ -1,0 +1,24 @@
+C:\Users\Deekshi\source\repos\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\bin\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.exe
+C:\Users\Deekshi\source\repos\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\bin\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.deps.json
+C:\Users\Deekshi\source\repos\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\bin\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.runtimeconfig.json
+C:\Users\Deekshi\source\repos\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\bin\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.runtimeconfig.dev.json
+C:\Users\Deekshi\source\repos\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\bin\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.dll
+C:\Users\Deekshi\source\repos\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\bin\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.pdb
+C:\Users\Deekshi\source\repos\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\obj\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.csprojAssemblyReference.cache
+C:\Users\Deekshi\source\repos\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\obj\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.AssemblyInfoInputs.cache
+C:\Users\Deekshi\source\repos\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\obj\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.AssemblyInfo.cs
+C:\Users\Deekshi\source\repos\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\obj\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.csproj.CoreCompileInputs.cache
+C:\Users\Deekshi\source\repos\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\obj\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.dll
+C:\Users\Deekshi\source\repos\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\obj\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.pdb
+C:\Users\Deekshi\source\repos\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\obj\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.genruntimeconfig.cache
+C:\Users\Ujwal\Desktop\New folder (2)\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\bin\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.exe
+C:\Users\Ujwal\Desktop\New folder (2)\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\bin\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.deps.json
+C:\Users\Ujwal\Desktop\New folder (2)\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\bin\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.runtimeconfig.json
+C:\Users\Ujwal\Desktop\New folder (2)\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\bin\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.runtimeconfig.dev.json
+C:\Users\Ujwal\Desktop\New folder (2)\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\bin\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.dll
+C:\Users\Ujwal\Desktop\New folder (2)\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\bin\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.pdb
+C:\Users\Ujwal\Desktop\New folder (2)\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\obj\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.csprojAssemblyReference.cache
+C:\Users\Ujwal\Desktop\New folder (2)\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\obj\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.AssemblyInfoInputs.cache
+C:\Users\Ujwal\Desktop\New folder (2)\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\obj\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.AssemblyInfo.cs
+C:\Users\Ujwal\Desktop\New folder (2)\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\obj\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.dll
+C:\Users\Ujwal\Desktop\New folder (2)\DesignPattrenFinalCheckSolution\DesignPattrenFinalCheckProject\obj\Debug\netcoreapp3.1\DesignPattrenFinalCheckProject.pdb

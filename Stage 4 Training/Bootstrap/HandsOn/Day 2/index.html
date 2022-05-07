@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title></title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script>
+        function Hello() {
+            
+            document.getElementById("submit").style.backgroundColor = "green";
+            
+        }
+    </script>
+</head>
+<body>
+    
+    <div class="container">
+        <h2>New Employee</h2>
+        <form onsubmit="Hello()" method="dialog">
+
+            <div class="row">
+                <div class="col">First Name</div>
+                <div class="col">Middel Name</div>
+                <div class="col">Last Name</div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <input type="text" />
+                </div>
+                <div class="col">
+                    <input type="text" />
+                </div>
+                <div class="col">
+                    <input type="text" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">Address Line1</div>
+                <div class="col">Address Line2</div>
+            </div>
+            <div class=" row">
+                <div class="col"><input type="text" style="width:100%" /></div>
+                <div class="col"><input type="text" style="width:100%" /></div>
+            </div>
+            <div class="row">
+                <div class="col-6">Email</div>
+                <div class="col">Password</div>
+                <div class="col">Confirm Password</div>
+            </div>
+            <div class="row">
+                <div class="col-6"><input type="email"  id="email" style="width:100%" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\[a-z]{2,}$" required /></div>
+                <div class="col"><input type="password" /></div>
+                <div class="col"><input type="password" /></div>
+            </div>
+            <div class="row">
+                <div class="col">Department</div>
+                <div class="col">Date of birth</div>
+                <div class="col">Gender</div>
+                <div class="col">Permanent</div>
+            </div>
+            <div class="row">
+                <div class="col"><input type="text" /></div>
+                <div class="col"><input type="date" /></div>
+                <div class="col">
+                    <input type="radio" name="Gender" value="Male" />Male
+                    <input type="radio" name="Gender" value="Female" />Female
+                </div>
+                <div class="col"><input type="checkbox" /></div>
+            </div>
+            <button type="submit" id="submit" style="margin-top:4px; background-color:blue;color:white">Submit</button>
+        </form>
+    </div>
+</body>
+</html>

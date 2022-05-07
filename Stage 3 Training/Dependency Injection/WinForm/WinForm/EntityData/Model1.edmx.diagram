@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e5dd13521ead4cfdb320709bf01a6201" Name="Diagram1">
+        <EntityTypeShape EntityType="HandsonDemoModel.EmployeeDetail" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HandsonDemoModel.Product" Width="1.5" PointX="3.375" PointY="0.75" />
+        <EntityTypeShape EntityType="HandsonDemoModel.Order" Width="1.5" PointX="5.625" PointY="1.125" />
+        <AssociationConnector Association="HandsonDemoModel.FK__Orders__Email__3E52440B" />
+        <AssociationConnector Association="HandsonDemoModel.FK__Orders__Id__3F466844" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

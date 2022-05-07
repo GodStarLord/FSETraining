@@ -1,0 +1,6 @@
+D:\Codes\Stage 3 Training\Hands On\Day 2\MultithreadingApp\ThreadStartSample\bin\Debug\ThreadStartSample.exe.config
+D:\Codes\Stage 3 Training\Hands On\Day 2\MultithreadingApp\ThreadStartSample\bin\Debug\ThreadStartSample.exe
+D:\Codes\Stage 3 Training\Hands On\Day 2\MultithreadingApp\ThreadStartSample\bin\Debug\ThreadStartSample.pdb
+D:\Codes\Stage 3 Training\Hands On\Day 2\MultithreadingApp\ThreadStartSample\obj\Debug\ThreadStartSample.csprojAssemblyReference.cache
+D:\Codes\Stage 3 Training\Hands On\Day 2\MultithreadingApp\ThreadStartSample\obj\Debug\ThreadStartSample.exe
+D:\Codes\Stage 3 Training\Hands On\Day 2\MultithreadingApp\ThreadStartSample\obj\Debug\ThreadStartSample.pdb

@@ -1,0 +1,5 @@
+D:\Codes\Stage 3 Training\Hands On\MagicFileslib\MagicFileslib\bin\Debug\MagicFileslib.dll
+D:\Codes\Stage 3 Training\Hands On\MagicFileslib\MagicFileslib\bin\Debug\MagicFileslib.pdb
+D:\Codes\Stage 3 Training\Hands On\MagicFileslib\MagicFileslib\obj\Debug\MagicFileslib.csprojAssemblyReference.cache
+D:\Codes\Stage 3 Training\Hands On\MagicFileslib\MagicFileslib\obj\Debug\MagicFileslib.dll
+D:\Codes\Stage 3 Training\Hands On\MagicFileslib\MagicFileslib\obj\Debug\MagicFileslib.pdb
